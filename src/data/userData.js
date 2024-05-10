@@ -1,7 +1,7 @@
 const userData = [
   {
-    userName: "Sofia Osorio",
-    userDesc: "Web Developer",
+    userName: "Paolo Sanchez",
+    userDesc: "Software Engineer | Consultant",
     userPic: "https://github.com/SofiDevO.png",
     userPicDark: "/img/pedro_raccon.gif",
   },
